@@ -1,0 +1,121 @@
+{
+    "basic_info": {
+      "description_header": "Olá",
+      "description": "👋 Me chamo Gabriel Lanes e trabalho como desenvolvedor frontend. Atualmente trabalho com os frameworks Vue e React. Aqui você vai encontrar um pouco de alguns projetos que estão no meu github, stacks em que tenho conhecimento, bem como minha experiência de trabalho. Qualquer dúvida, sugestão ou oferta estou a disposição!",
+      "section_name": {
+        "about": "Sobre",
+        "projects": "Projetos",
+        "skills": "Habilidades",
+        "experience": "Experiência",
+        "footer": "Contate-me!"
+      }
+    },
+    "projects": [
+      {
+        "title": "Feed Social",
+        "description": "Neste projeto, tive a oportunidade de colocar em prática os fundamentos e conceitos básicos do React, uso do Vite, estilização a partir de styled components, uso de estados do react, conceitos de imutabilidade e closures, bem como uso do Typescript.",
+        "images": [
+          "images/portfolio/socialFeed/socialFeed1.png",
+          "images/portfolio/socialFeed/socialFeed2.png"
+        ],
+        "url": "https://github.com/lanesgabriel/projetos/tree/main/frontend/socialFeed",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Cronômetro de tarefas",
+        "description": "Neste projeto eu apliquei os conceitos aprendidos sobre React Hook Form, React Router DOM, Context API, alguns hooks como o useReducer, e conceitos de imutabilidade com o Immer.",
+        "images": [
+          "images/portfolio/taskTimer/taskTimer1.png",
+          "images/portfolio/taskTimer/taskTimer2.png",
+          "images/portfolio/taskTimer/taskTimer3.png"
+        ],
+        "url": "https://github.com/lanesgabriel/projetos/tree/main/frontend/taskTimer",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Gerenciador de Finanças",
+        "description": "Dentro deste projeto eu pude praticar meus conhecimentos sobre consumo de APIs, requisições a partir do frontend, bem como utilizei bibliotecas e funcionalidades do React para melhora de performance.",
+        "images": [
+          "images/portfolio/financeManager/financeManager1.png",
+          "images/portfolio/financeManager/financeManager2.png"
+        ],
+        "url": "https://github.com/lanesgabriel/projetos/tree/main/frontend/financeManager",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "QueroQuitar",
+        "title": "Desenvolvedor Frontend",
+        "years": "10.2021 - atual",
+        "mainTech": [
+          "Vue"
+        ],
+        "technologies": [
+          "Nuxt.js",
+          "Vuex",
+          "TailwindCSS",
+          "Pug",
+          "REST API",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      },
+      {
+        "company": "Freelancer",
+        "title": "Desenvolvedor Frontend",
+        "years": "01.2021 - 10.2021",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "Next.js",
+          "Redux",
+          "Styled components",
+          "JavaScript",
+          "Hooks",
+          "Vite",
+          "Zod"
+        ]
+      }
+    ]
+  }
