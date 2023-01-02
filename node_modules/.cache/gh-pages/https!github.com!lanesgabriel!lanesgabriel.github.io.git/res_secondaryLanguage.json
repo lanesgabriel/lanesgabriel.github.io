@@ -1,0 +1,121 @@
+{
+    "basic_info": {
+      "description_header": "Hello!",
+      "description": "👋 I'm Gabriel Lanes and I work as a frontend developer. I currently work with Vue and React frameworks. Here you will find a little bit of some projects that are on my github, stacks in which I have knowledge, as well as my work experience. Any questions, suggestions or offers I am at your disposal!",
+      "section_name": {
+        "about": "About",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience",
+        "footer": "Contact me!"
+      }
+    },
+    "projects": [
+      {
+        "title": "Social Feed",
+        "description": "In this project, I had the opportunity to put into practice the fundamentals and basic concepts of React, use of Vite, styling from styled components, use of react states, concepts of immutability and closures, as well as use of Typescript.",
+        "images": [
+          "images/portfolio/socialFeed/socialFeed1.png",
+          "images/portfolio/socialFeed/socialFeed2.png"
+        ],
+        "url": "https://github.com/lanesgabriel/projetos/tree/main/frontend/socialFeed",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Task timer",
+        "description": "In this project I applied the concepts learned about React Hook Form, React Router DOM, Context API, some hooks like useReducer, and immutability concepts with Immer.",
+        "images": [
+          "images/portfolio/taskTimer/taskTimer1.png",
+          "images/portfolio/taskTimer/taskTimer2.png",
+          "images/portfolio/taskTimer/taskTimer3.png"
+        ],
+        "url": "https://github.com/lanesgabriel/projetos/tree/main/frontend/taskTimer",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Finance manager",
+        "description": "Within this project I was able to practice my knowledge about API consumption, requests from the frontend, as well as using React libraries and features to improve performance.",
+        "images": [
+          "images/portfolio/financeManager/financeManager1.png",
+          "images/portfolio/financeManager/financeManager2.png"
+        ],
+        "url": "https://github.com/lanesgabriel/projetos/tree/main/frontend/financeManager",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "QueroQuitar",
+        "title": "Frontend developer",
+        "years": "10.2021 - current",
+        "mainTech": [
+          "Vue"
+        ],
+        "technologies": [
+          "Nuxt.js",
+          "Vuex",
+          "TailwindCSS",
+          "Pug",
+          "REST API",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      },
+      {
+        "company": "Freelancer",
+        "title": "Frontend developer",
+        "years": "01.2021 - 10.2021",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "Next.js",
+          "Redux",
+          "Styled components",
+          "JavaScript",
+          "Hooks",
+          "Vite",
+          "Zod"
+        ]
+      }
+    ]
+  }
